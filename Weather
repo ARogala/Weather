@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl wttr.in/Highland+Lakes+New+Jersey
+
+read -p "Press Ctrl + C to quit"
